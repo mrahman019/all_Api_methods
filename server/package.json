@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "all api's",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+"start": "nodemon app.js"
+ },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mrahman019/all_Api_methods.git"
+  },
+  "author": "M.RAHMAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrahman019/all_Api_methods/issues"
+  },
+  "homepage": "https://github.com/mrahman019/all_Api_methods#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
